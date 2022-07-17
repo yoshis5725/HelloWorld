@@ -1,0 +1,15 @@
+/Users/elliottpolite/Documents/dev/classProjRepos/HelloWorld/HelloWorld/bin/Debug/net6.0/HelloWorld
+/Users/elliottpolite/Documents/dev/classProjRepos/HelloWorld/HelloWorld/bin/Debug/net6.0/HelloWorld.deps.json
+/Users/elliottpolite/Documents/dev/classProjRepos/HelloWorld/HelloWorld/bin/Debug/net6.0/HelloWorld.runtimeconfig.json
+/Users/elliottpolite/Documents/dev/classProjRepos/HelloWorld/HelloWorld/bin/Debug/net6.0/HelloWorld.dll
+/Users/elliottpolite/Documents/dev/classProjRepos/HelloWorld/HelloWorld/bin/Debug/net6.0/HelloWorld.pdb
+/Users/elliottpolite/Documents/dev/classProjRepos/HelloWorld/HelloWorld/obj/Debug/net6.0/HelloWorld.csproj.AssemblyReference.cache
+/Users/elliottpolite/Documents/dev/classProjRepos/HelloWorld/HelloWorld/obj/Debug/net6.0/HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elliottpolite/Documents/dev/classProjRepos/HelloWorld/HelloWorld/obj/Debug/net6.0/HelloWorld.AssemblyInfoInputs.cache
+/Users/elliottpolite/Documents/dev/classProjRepos/HelloWorld/HelloWorld/obj/Debug/net6.0/HelloWorld.AssemblyInfo.cs
+/Users/elliottpolite/Documents/dev/classProjRepos/HelloWorld/HelloWorld/obj/Debug/net6.0/HelloWorld.csproj.CoreCompileInputs.cache
+/Users/elliottpolite/Documents/dev/classProjRepos/HelloWorld/HelloWorld/obj/Debug/net6.0/HelloWorld.dll
+/Users/elliottpolite/Documents/dev/classProjRepos/HelloWorld/HelloWorld/obj/Debug/net6.0/refint/HelloWorld.dll
+/Users/elliottpolite/Documents/dev/classProjRepos/HelloWorld/HelloWorld/obj/Debug/net6.0/HelloWorld.pdb
+/Users/elliottpolite/Documents/dev/classProjRepos/HelloWorld/HelloWorld/obj/Debug/net6.0/HelloWorld.genruntimeconfig.cache
+/Users/elliottpolite/Documents/dev/classProjRepos/HelloWorld/HelloWorld/obj/Debug/net6.0/ref/HelloWorld.dll
